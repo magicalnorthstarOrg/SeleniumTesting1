@@ -1,5 +1,3 @@
-
-Project_Sourabh
 #Author: sourabh.email@your.domain.com
 #Keywords Summary :
 #Feature: List of scenarios.
