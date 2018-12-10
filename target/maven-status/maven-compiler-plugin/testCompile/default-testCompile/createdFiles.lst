@@ -1,0 +1,4 @@
+com\testing\lob\Runner\RunCukesTest.class
+com\testing\lob\Steps\AppTest.class
+com\testing\lob\property\PropertyClass.class
+com\testing\lob\GlueCode\GlueClass.class

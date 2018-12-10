@@ -207,35 +207,35 @@ formatter.match({
   "location": "GlueClass.launch()"
 });
 formatter.result({
-  "duration": 16443514235,
+  "duration": 24171529286,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueClass.productSelection()"
 });
 formatter.result({
-  "duration": 1316169224,
+  "duration": 1887335117,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueClass.click()"
 });
 formatter.result({
-  "duration": 5726922441,
+  "duration": 5979686764,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueClass.select()"
 });
 formatter.result({
-  "duration": 9855719574,
+  "duration": 10521343820,
   "status": "passed"
 });
 formatter.match({
   "location": "GlueClass.addtocart()"
 });
 formatter.result({
-  "duration": 3603696329,
+  "duration": 4317602904,
   "status": "passed"
 });
 });

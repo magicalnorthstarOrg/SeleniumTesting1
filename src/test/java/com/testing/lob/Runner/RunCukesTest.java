@@ -13,7 +13,7 @@ import cucumber.api.junit.Cucumber;
 		monochrome = true,
 		tags={"@skip_scenario"}
 		)
-public class RunnerClass {
+public class RunCukesTest {
 	
 	
 	}
